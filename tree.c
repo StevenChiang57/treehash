@@ -11,7 +11,6 @@
 
 //    WITH FILE USEAGE: ./test FILENAME NumberOfCharactersToCompare
 // WITHOUT FILE USEAGE: doesnt work.......just make a file
-//                                      number of characters default = 10
 // example ./test tree.c 5
 #include <stdio.h>
 #include <stdlib.h>
